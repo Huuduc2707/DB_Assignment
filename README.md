@@ -18,7 +18,7 @@ The code must be stored here to run, other directories are not allowed.
 
 ### Step 6: Import supermarket_database.sql file to create the database
 
-### Step 7: Open your web browser and type http://localhost/webpro/index.php in the url bar to start the web app
+### Step 7: Open your web browser and type http://localhost/DB_Assignment/index.php in the url bar to start the web app
 
 ### Step 8: Log in to start using
 
